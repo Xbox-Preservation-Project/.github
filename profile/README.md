@@ -20,9 +20,8 @@ We are grateful for their pioneering work and continue to collaborate with these
 
 ## Get Involved
 We welcome contributions from all corners of the Xbox community! Whether you're a developer, a hardware enthusiast, or simply a fan of the original Xbox, there's a place for you here. Here's how you can get involved:
-- **Contribute to our Projects:** Check out our [projects page](#) for current initiatives and how you can contribute.
-- **Join the Discussion:** Participate in our [community forums](#) to share ideas, get help, and collaborate with others.
-- **Support Us:** Your support helps us continue our work. Learn more about how you can support us [here](#).
+- **Contribute to our Projects:** Check out our repositories for current initiatives and how you can contribute.
+- **Join the Discussion:** Participate in our [community forums](https://discord.gg/VcdSfajQGK) to share ideas, get help, and collaborate with others.
 
 ## Contact Us
 Have questions or want to reach out? Contact us on the Xbox Scene Discord [here](https://discord.gg/VcdSfajQGK).
